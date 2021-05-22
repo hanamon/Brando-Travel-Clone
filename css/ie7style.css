@@ -1,0 +1,37 @@
+@charset "utf-8"; /* 브란도 트레버 원페이지형 */
+
+.header-mobile-menu-wrap>li>a{display:inline;}
+.headerNav>li{display:inline;}	
+		
+.section1-right-content>ul>li>a{display:inline;}
+.section1-nav-wrap>ul>li{display:inline;}
+			
+.section4-left-wrap>li>h2>span{display:inline;}			
+.section4-right-wrap>li>a>span>strong{display:inline;}			
+.right-hidden-box>li>p{display:inline;}			
+			
+.section5-Button-wrap>li{display:inline;}			
+.modal-Left-Arrow-wrap>a{display:inline;}			
+.modal-Right-Arrow-wrap>a{display:inline;}
+
+.section9-slide-content-text-wrap>li{display:inline;}
+.section9-slide-content-text-wrap>li>h4{display:inline;}
+
+.section10-left-wrap>ul>li>a>i.addSec10Color{display:inline;}
+.section10-star-wrap>ul>li{display:inline;}
+.section10-hotel-text-wrap>li>a{display:inline;}
+
+#footer>div>div>span{display:inline;}
+
+#markUp>p{display:inline;}
+
+/* respons.css*/
+.section5-Button-wrap>li>a{display:inline;}
+
+
+
+
+
+
+			
+			

@@ -1,0 +1,18 @@
+@charset "utf-8"; /* 브란도 트레버 원페이지형 */ 
+
+.header-text{font-size:50px;color:#fff;padding:100px 0;text-align:center;}
+
+.form-wrap{display:block;white-space:normal;width:500px;height:300px;font-size:15px;font-weight:500;color:#222;padding:10px;margin:0 auto;background:#f1f1f1;text-indent:5px;font-family:'Montserrat';border-radius:3px;overflow:hidden;}
+.form-wrap>p{width:100%;padding:5px 0;line-height:160%;white-space:normal;}
+
+.homeBtn-wrap{width:100%;margin:0 auto;padding:80px 0;text-align:center;}
+.homeBtn-wrap>a{display:inline-block;color:#fff;padding:10px 20px;background:#666;border-radius:3px;}
+
+
+
+
+
+
+
+
+
