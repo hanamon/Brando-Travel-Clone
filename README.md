@@ -1,4 +1,4 @@
-# Brando-Travel-Clone 🐑
+# Brando Travel Clone 🐑
 
 BRANDO TRAVEL Web page clone coding (HTML, CSS, JS)
 
