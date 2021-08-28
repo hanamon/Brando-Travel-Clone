@@ -19,17 +19,3 @@
 	<p class='homeBtn-wrap'><a href='index.html'>홈으로 이동</a></p>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

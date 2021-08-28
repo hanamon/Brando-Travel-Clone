@@ -13,10 +13,10 @@ $(function(){ // section7.js
 	
 	function imgHeightFn(){
 		imgH = $('.section7-left-img-wrap>div>a>img').innerHeight();
-			   $('.section7-right-text-wrap>div').css({height:imgH});
-			   $('.section7-right-text-wrap>div>span>a'     ).css({ fontSize : imgH * 0.064864865, transition:'all 0s' });
-			   $('.section7-right-text-wrap>div>span>strong').css({ fontSize : imgH * 0.05045045,  transition:'all 0s' });
-			   $('.section7-right-text-wrap>div>span>i'     ).css({ height   : imgH * 0.014414414, transition:'all 0s' });
+					 $('.section7-right-text-wrap>div').css({height:imgH});
+			  	 $('.section7-right-text-wrap>div>span>a'     ).css({ fontSize : imgH * 0.064864865, transition:'all 0s' });
+			  	 $('.section7-right-text-wrap>div>span>strong').css({ fontSize : imgH * 0.05045045,  transition:'all 0s' });
+			  	 $('.section7-right-text-wrap>div>span>i'     ).css({ height   : imgH * 0.014414414, transition:'all 0s' });
 	}
 /*-----------------------------------------------------------------------------------------------------------*/	
 	// 텍스트 오버시 칼라 바뀜
